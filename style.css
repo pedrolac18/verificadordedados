@@ -1,0 +1,125 @@
+*{
+  margin: 0;
+}
+
+#image{
+
+  margin-left: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+}
+
+#text{
+
+  width: 100px;
+
+}
+
+.txt{
+  margin-left: 20%;
+
+}
+
+.tit{
+  margin-left: 20%;
+  margin-top: 1rem;
+}
+
+#table{
+
+  background-color: lightblue;
+
+  border: solid;
+  width: 300px;
+  height: 150px;
+
+
+  display:flex;
+  flex-direction: column;
+
+  grid-column: 2/3;
+  grid-row: 1/1;
+
+  margin-top: 1rem;
+
+}
+
+#button{
+  color: indigo;
+  background-color: lightskyblue;
+}
+
+
+#tablee{
+
+  background-color: lightblue;
+
+  border: solid;
+  width: 300px;
+  height: 150px;
+
+
+  display:flex;
+  flex-direction: column;
+
+  grid-column: 2/3;
+  grid-row: 2/2;
+
+  margin-top: 1rem;
+
+}
+
+#tabela{
+
+
+    background-color: lightblue;
+
+    border: solid;
+    width: 300px;
+    height: 150px;
+
+
+    display:flex;
+    flex-direction: column;
+
+    grid-column: 2/3;
+    grid-row: 3/3;
+
+    margin-top: 1rem;
+
+}
+
+
+#centralize{
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 33.3vh 33.3vh 33.3vh;
+}
+
+
+#textt{
+  width: 100px;
+
+}
+  #imagee{
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+  }
+
+  #show{
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+ #number{
+     width: 100px;
+
+ }
